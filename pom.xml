@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.petero</groupId>
-    <artifactId>Peeb</artifactId>
+    <artifactId>APIPower</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Peeb</name>
-    <description>Peeb API</description>
+    <name>APIPower</name>
+    <description>APIPower</description>
     <properties>
         <java.version>19</java.version>
     </properties>
